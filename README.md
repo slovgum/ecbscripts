@@ -1,4 +1,4 @@
-# Beginner Tutorial: Scrape an ECB Monetary Policy Statement, Run Sentiment Analysis, and Make a Word Cloud
+# Beginner Tutorial: ECB Monetary Policy Press Conference Textual Analysis
 
 This tutorial is written for a beginner using an empty GitHub Codespace with VS Code. We will:
 
