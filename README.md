@@ -10,6 +10,8 @@ This tutorial is written for a beginner using an empty GitHub Codespace with VS 
 6. Run sentiment analysis.
 7. Create a word cloud.
 
+This guidance provides the ready-to-go example python scripts. However, you can also follow the prompt-based workflow, which summarized in Lecture Note 2 - Basic Textual Analysis.pdf on our elearning.
+
 Target page:
 
 ```text
